@@ -13,4 +13,9 @@ Details are listed below:
 - Add the edges between nodes to make all nodes connected.
 - Output the maze with '|' for vertical sides and '-' for horizonal sides.
 - Continue adding sides to make the number of sides no less than the average of the minimum N^2-1 and the max 2N(N-1).
-- use Dijkstra to find all the shortest paths between two nodes that user input and output the length and paths.
+- Use Dijkstra to find all the shortest paths between two nodes that user input and output the length and paths.
+- Description in Chinese is before:
+- ![image](https://github.com/Meizhi-hua/Maze/blob/main/pngs/CSample.png)
+
+## Samples
+![image](https://github.com/Meizhi-hua/Maze/blob/main/pngs/sample.png)
